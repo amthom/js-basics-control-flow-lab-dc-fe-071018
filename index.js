@@ -2,5 +2,8 @@
 
 function scuberGreetingForFeet {
   console.log ("== scuberGreetingForFeet ==");
+  if (distance <= 400) {
+    
+  }
 
 }
