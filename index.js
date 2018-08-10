@@ -30,8 +30,8 @@ function switchOnCharmFromTip(tip) {
   console.log("== switchOnCharmFromTip ==");
 
   switch(tip) {
-      case n:
-          code block
+      case "generous":
+          return 'Thank you so much.'
           break;
       case n:
           code block
