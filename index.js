@@ -18,9 +18,10 @@ scuberGreetingForFeet (199);
 
 function ternaryCheckCity(city) {
   console.log("== ternaryCheckCity ==");
-  city === "NYC" 
+  city === "NYC"
     ? 'Ok, sounds good.'
     : 'No go.';
+  return city;  
 }
 
 ternaryCheckCity ("NYC");
