@@ -15,3 +15,7 @@ function scuberGreetingForFeet (distance) {
 }
 
 scuberGreetingForFeet (199);
+
+function ternaryCheckCity() {
+  console.log("== ternaryCheckCity ==");
+}
