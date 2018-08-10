@@ -41,4 +41,4 @@ function switchOnCharmFromTip(tip) {
   };
 }
 
-switchOnCharmFromTip("generous")
+// switchOnCharmFromTip("generous")
