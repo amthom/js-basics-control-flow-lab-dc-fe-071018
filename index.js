@@ -40,3 +40,5 @@ function switchOnCharmFromTip(tip) {
           code block
   };
 }
+
+switchOnCharmFromTip("generous")
