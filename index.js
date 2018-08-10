@@ -27,7 +27,7 @@ function ternaryCheckCity(city) {
 ternaryCheckCity ("NYC");
 
 function switchOnCharmFromTip() {
-  console.log("== switchOnCharmFromTip ==")
+  console.log("== switchOnCharmFromTip ==");
 
   switch(expression) {
       case n:
