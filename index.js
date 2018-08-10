@@ -24,4 +24,4 @@ function ternaryCheckCity(city) {
   return destination;
 }
 
-ternaryCheckCity ("NYC");
+// ternaryCheckCity ("NYC");
