@@ -18,6 +18,8 @@ scuberGreetingForFeet (199);
 
 function ternaryCheckCity() {
   console.log("== ternaryCheckCity ==");
+
+
 }
 
-ternaryCheckCity ();
+ternaryCheckCity ("NYC");
